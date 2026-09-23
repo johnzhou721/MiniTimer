@@ -4,4 +4,4 @@
 [The BeeWare Project](https://beeware.org/). If you want to see more tools like Briefcase, please
 consider [becoming a financial member of BeeWare](https://beeware.org/membership).**
 
-My first application
+My first AI-gen application
